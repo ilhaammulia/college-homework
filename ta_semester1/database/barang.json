@@ -1,0 +1,34 @@
+{
+    "barang": [
+        {
+            "id_barang": 210209,
+            "nama": "Mie Indomie",
+            "jenis": "Makanan",
+            "stok": 2000
+        },
+        {
+            "id_barang": 789215,
+            "nama": "Coca Cola",
+            "jenis": "Minuman",
+            "stok": "5000"
+        },
+        {
+            "id_barang": 894405,
+            "nama": "Mie Indomie",
+            "jenis": "Makanan",
+            "stok": 1000
+        },
+        {
+            "id_barang": 168699,
+            "nama": "Indomilk",
+            "jenis": "Minuman",
+            "stok": 300
+        },
+        {
+            "id_barang": 634955,
+            "nama": "Pepsodent",
+            "jenis": "Peralatan Mandi",
+            "stok": 200
+        }
+    ]
+}

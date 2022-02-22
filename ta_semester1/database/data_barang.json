@@ -1,0 +1,27 @@
+[
+    {
+        "nama": "Mie Indomie",
+        "jenis": "Makanan",
+        "stok": 2000
+    },
+    {
+        "nama": "Coca Cola",
+        "jenis": "Minuman",
+        "stok": "5000"
+    },
+    {
+        "nama": "Mie Indomie",
+        "jenis": "Makanan",
+        "stok": 1000
+    },
+    {
+        "nama": "Indomilk",
+        "jenis": "Minuman",
+        "stok": 300
+    },
+    {
+        "nama": "Pepsodent",
+        "jenis": "Peralatan Mandi",
+        "stok": 200
+    }
+]

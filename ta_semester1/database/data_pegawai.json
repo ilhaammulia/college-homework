@@ -1,0 +1,12 @@
+[
+    {
+        "id_pegawai": 1,
+        "nama": "Admin 1",
+        "jabatan": "Admin"
+    },
+    {
+        "id_pegawai": 341832,
+        "nama": "Irwan",
+        "jabatan": "Sales"
+    }
+]

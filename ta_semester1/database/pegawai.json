@@ -1,0 +1,18 @@
+{
+    "pegawai": [
+        {
+            "id_pegawai": 1,
+            "password": "admin123",
+            "nama": "Admin 1",
+            "jabatan": "Admin",
+            "jk": "-"
+        },
+        {
+            "id_pegawai": 341832,
+            "password": "irwan123",
+            "nama": "Irwan",
+            "jabatan": "Sales",
+            "jk": "Laki-Laki"
+        }
+    ]
+}

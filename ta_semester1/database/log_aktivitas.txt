@@ -1,0 +1,15 @@
+[27-12-2021 15:02:48][1 - Admin 1] Telah login.
+[27-12-2021 15:02:48][1 - Admin 1] Telah menambahkan data pegawai dengan id 569784.
+[27-12-2021 15:02:48][1 - Admin 1] Telah logout.
+[27-12-2021 15:02:48][569784 - Rudi] Telah login.
+[27-12-2021 15:02:48][569784 - Rudi] Telah menambahkan data barang dengan id 168699.
+[27-12-2021 15:02:48][569784 - Rudi] Telah logout.
+[28-12-2021 08:40:44][1 - Admin 1] Telah login.
+[28-12-2021 08:40:44][1 - Admin 1] Telah menambahkan data barang dengan id 634955.
+[28-12-2021 08:57:25][1 - Admin 1] Telah login.
+[28-12-2021 08:57:25][1 - Admin 1] Telah menambahkan data pegawai dengan id 341832.
+[28-12-2021 08:57:25][1 - Admin 1] Telah logout.
+[28-12-2021 08:57:25][341832 - Irwan] Telah login.
+[28-12-2021 08:57:25][341832 - Irwan] Telah menghapus data pegawai dengan id 569784.
+[12-01-2022 17:25:51][1 - Admin 1] Telah login.
+[12-01-2022 17:25:51][1 - Admin 1] Telah logout.
